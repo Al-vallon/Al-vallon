@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=1da53d&center=true&vCenter=true&lines=developer+beginner;coffee+addict;Daddy+&+Geek;Powerlifter+%F0%9F%8F%8B">
+
+<p align="center><img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=1da53d&center=true&vCenter=true&lines=developer+beginner;coffee+addict;Daddy+&+Geek;Powerlifter+%F0%9F%8F%8B"></p>
 <h3 align="center">A passionate developer !! 👨‍💻</h3>
 
 - 🔭 I’m currently working on my final project for my exam to become a developper web **my final project for my exam to become a developper web**
