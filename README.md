@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
+<h1 align="center">Hi 👋, I'm Alexandre !!! <a href="https://emoji.gg/emoji/8158-id-law-coffee"><img src="https://cdn3.emoji.gg/emojis/8158-id-law-coffee.gif" width="64px" height="64px" alt="id_law_coffee"></a> </h1>
 
-<p align="center><img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=1da53d&center=true&vCenter=true&lines=developer+beginner;coffee+addict;Daddy+&+Geek;Powerlifter+%F0%9F%8F%8B"></p>
+<p align="center></p>
 <h3 align="center">A passionate developer !! 👨‍💻</h3>
-
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=1da53d&center=true&vCenter=true&lines=developer+beginner;coffee+addict;Daddy+&+Geek;Powerlifter+%F0%9F%8F%8B">
+    <h3 align="center">I'm a beginner web developper, this is my work and some other things about dev.</h3>
+</p>
+                  
+                  
 - 🔭 I’m currently working on my final project for my exam to become a developper web **my final project for my exam to become a developper web**
 
 - 🌱 I’m currently learning javascript **javascript & VueJS, react, nodeJS...**
@@ -18,7 +23,7 @@
 - ⚡ Fun fact **geek n lifter**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandre-vallon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-vallon/" height="30" width="40" /></a>
 </p>
 
