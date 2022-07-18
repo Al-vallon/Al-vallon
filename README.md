@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **metalozor@gmail.com**
 
-- 📄 Know about my experiences [a beginner in this wonderfull world of dev and](a beginner in this wonderfull world of dev and)
+- 📄 Know about my experiences: a beginner in this wonderfull world of dev! 📜 I did a training in dev and i love so I continue my path to progress everyday!!! 📜  
 
 - ⚡ Fun fact **geek n lifter** Love retro gaming (SNES) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
 
