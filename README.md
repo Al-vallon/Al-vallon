@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="![image](https://user-images.githubusercontent.com/81435330/179984715-de058714-b952-496d-85d9-74207332b71e.png)
-">, I'm Alexandre !!! <a href="https://emoji.gg/emoji/8158-id-law-coffee"><img src="https://cdn3.emoji.gg/emojis/8158-id-law-coffee.gif" width="64px" height="64px" alt="id_law_coffee"></a> </h1>
+<h1 align="center">Hi <a href="https://emoji.gg/emoji/4546-kirbywave"><img src="https://cdn3.emoji.gg/emojis/4546-kirbywave.gif" width="64px" height="64px" alt="KirbyWave"></a>, I'm Alexandre !!! <a href="https://emoji.gg/emoji/8158-id-law-coffee"><img src="https://cdn3.emoji.gg/emojis/8158-id-law-coffee.gif" width="64px" height="64px" alt="id_law_coffee"></a> </h1>
 
 <p align="center></p>
 <h3 align="center">A passionate developer !! 👨‍💻</h3>
