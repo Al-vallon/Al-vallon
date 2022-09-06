@@ -7,20 +7,16 @@
     <h3 align="center">I'm a junior web developper, this is my work and some other things about dev.</h3>
 </p>
                   
-                  
-- 🔭 I’m currently working on my final project for my exam to become a developper web **my final project for my exam to become a developper web**
-
+    
 - 🌱 I’m currently learning javascript **javascript & VueJS, react, nodeJS...**
 
 - 👯 I’m looking to collaborate on nothing but i'll focus on JAVASCRIPT. **nothing but i'll focus on JAVASCRIPT.**
-
-- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **metalozor@gmail.com**
 
 - 📄 Know about my experiences: a beginner in this wonderfull world of dev! 📜 I did a training in dev and i love so I continue my path to progress everyday!!! 📜  
 
-- ⚡ Fun fact **geek n lifter** Love retro gaming (SNES) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
+- ⚡ Fun fact **geek n lifter**  🎮 retrogamer lover (🔥 SNES 🔥) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
 
 <h3 align="left">Connect with me:</h3>
                 
