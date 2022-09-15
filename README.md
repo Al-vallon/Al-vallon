@@ -8,7 +8,7 @@
 </p>
                   
     
-- 🌱 I’m currently learning javascript **javascript & VueJS, react, nodeJS...**
+- 🌱 I’m currently learning **javascript & VueJS, react, nodeJS...**
 
 - 👯 I’m looking to collaborate on nothing but i'll focus on JAVASCRIPT. **nothing but i'll focus on JAVASCRIPT.**
 
