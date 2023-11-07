@@ -8,13 +8,11 @@
 </p>
                   
     
-- 🌱 I’m currently learning **javascript & VueJS, react, nodeJS...**
+- 🌱 I’m currently I practice my javascript skill
 
-- 👯 I’m looking to collaborate on nothing but i'll focus on JAVASCRIPT. **nothing but i'll focus on JAVASCRIPT.**
+- 👯 I’m looking to collaborate with a company using angular / nodejs 
 
-- 📫 How to reach me **metalozor@gmail.com**
-
-- 📄 Know about my experiences: a beginner in this wonderfull world of dev! 📜 I did a training in dev and i love so I continue my path to progress everyday!!! 📜  
+- 📄 Know about my experiences:📜 I worked for an IOT company as fullstack dev. I made application to communicate with IOT cards like ( shutter )  📜  
 
 - ⚡ Fun fact **geek n lifter**  🎮 retrogamer lover (🔥 SNES 🔥) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
 
