@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with a company using angular / nodejs 
 
-- 📄 Know about my experiences:📜 I worked for an IOT company as fullstack dev. I made application to communicate with IOT cards like ( shutter )  📜  
+- 📄 Know about my experiences:📜 I worked for an IOT company as fullstack dev. I made a customer interface, embedded in an electronic board, so that the customer could control his home automation elements. communication was via an api rest.)  📜  
 
 - ⚡ Fun fact **geek n lifter**  🎮 retrogamer lover (🔥 SNES 🔥) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
 
