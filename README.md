@@ -52,6 +52,6 @@
 
 </p>
 
+<p align="center"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></p>
 
-<p align="center"><img align="center" src="https://camo.githubusercontent.com/d2e7fa9f748460506e03f50fb50328b5aae03b978a2cd3450af789e52a3f3f60/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a432d6350503944324d497965657841542e676966" data-canonical-src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" style="max-width: 100%;display: inline-block;width: 50%;margin: 0em 15em;" data-target="animated-image.originalImage"></p>
 
