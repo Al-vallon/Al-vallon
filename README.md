@@ -52,6 +52,8 @@
 
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/></p>
+<h3 align="center"> [![Top Langs]</h3>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-vallon&layout=compact&theme=vision-friendly-dark"/></p>
 
 
