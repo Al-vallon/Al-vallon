@@ -1,4 +1,14 @@
-<h1 align="center">Hi <a href="https://emoji.gg/emoji/4546-kirbywave"><img src="https://cdn3.emoji.gg/emojis/4546-kirbywave.gif" width="64px" height="64px" alt="KirbyWave"></a>, I'm Alexandre !!! <a href="https://emoji.gg/emoji/8158-id-law-coffee"><img src="https://cdn3.emoji.gg/emojis/8158-id-law-coffee.gif" width="64px" height="64px" alt="id_law_coffee"></a> </h1>
+
+
+<h1 align="center">
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alexandre +vallon!;" /> -->
+    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=4262F7&width=285&height=60&lines=I'm+Alexandre+vallon;Hi+there+👋" alt="Typing SVG" /></a>
+    
+</h1>
+
+<h3 align="center">A passionate software developer from France 🇫🇷</h3>
+
+<br/>
 
 <p align="center></p>
 <h3 align="center">A passionate developer !! 👨‍💻</h3>
