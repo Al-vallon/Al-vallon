@@ -67,9 +67,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
 </p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak"/></p>
 <h3 align="center"> [![Top Langs]</h3>
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-vallon&layout=compact&theme=vision-friendly-dark"/></p>
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-vallon&layout=compact&&theme=vision-friendly-dark"/></p>
 
 ![snake gif](https://github.com/Al-vallon/Al-vallon/blob/output/snake.svg)
 
