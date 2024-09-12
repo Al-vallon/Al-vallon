@@ -6,12 +6,11 @@
     
 </h1>
 
-<h3 align="center">A passionate software developer from France 🇫🇷</h3>
+<h3 align="center">A passionate software developer from France 👨‍💻</h3>
 
 <br/>
 
 <p align="center></p>
-<h3 align="center">A passionate developer !! 👨‍💻</h3>
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=1da53d&center=true&vCenter=true&lines=developer+beginner;coffee+addict;Daddy%27n%27Geek;Powerlifter+%F0%9F%8F%8B">
     <h3 align="center">I'm a junior web developper, this is my work and some other things about dev.</h3>
