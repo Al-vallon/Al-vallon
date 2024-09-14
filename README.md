@@ -13,14 +13,14 @@
     <h3 align="center">this is my work and some other things about dev.</h3>
 </p>
 
- <h2 align="left">📜 About Me</h2>
+ <h2 align="left">📜 About Me :</h2>
         <p>
             I am a FullStack developer specialized in JavaScript with significant experience in developing interfaces for IoT products using Angular and NodeJS. I am resuming my studies to pursue a Bachelor's degree in Full Stack Python development.
         </p>
 
   
 
-- ⚡ Fun fact **geek n lifter**  🎮 retrogamer lover (🔥 SNES 🔥) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
+- ⚡ Fun fact: **geek n lifter**  🎮 retrogamer lover (🔥 SNES 🔥) <a href="https://emoji.gg/emoji/4886-kirbysnescontrolller"><img src="https://cdn3.emoji.gg/emojis/4886-kirbysnescontrolller.gif" width="64px" height="64px" alt="KirbySNESControlller"></a> 
 
 <hr />
 <hr />
