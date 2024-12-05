@@ -15,7 +15,7 @@
 
  <h2 align="left">📜 About Me :</h2>
         <p>
-            I am a FullStack developer specialized in JavaScript with significant experience in developing interfaces for IoT products using Angular and NodeJS. I am resuming my studies to pursue a Bachelor's degree in Full Stack Python development.
+            I am a FullStack developer specialized in JavaScript with significant experience in developing interfaces for IoT products using Angular and NodeJS. I am resuming my studies to pursue a Bachelor's degree in Full Stack IA development.
         </p>
 
   
