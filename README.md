@@ -78,11 +78,6 @@
 </p>
 
 <hr />
-<hr />
-<hr />
-<div align="center">
-    <p>[![trophy](https://github-profile-trophy.vercel.app/?username=Al-vallon)](https://github.com/Al-vallon/github-profile-trophy)</p>
-</div>
 
 <div align="center">
     <p style="margin: 0; padding: 10px;"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak"/></p>
