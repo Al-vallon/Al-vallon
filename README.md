@@ -80,7 +80,8 @@
 <hr />
 
 <div align="center">
-    <p style="margin: 0; padding: 10px;"><img src="https://streak-stats.demolab.com?user=Al-vallon&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak"/></p>
+    <p style="margin: 0; padding: 10px;"><img src="https://github-readme-stats.vercel.app/api?username=Al-vallon&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=dracula&hide_border=true" alt="Top Langs"/></p>
+    <p style="margin: 0; padding: 10px;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Al-vallon&theme=dracula&hide_border=true&mode=weekly" alt="GitHub Streak"/></p>
     <p style="margin: 0; padding: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-vallon&layout=compact&theme=dracula&hide_border=true" alt="Top Langs"/></p>
 
 
