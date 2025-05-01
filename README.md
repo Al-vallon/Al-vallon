@@ -89,3 +89,18 @@ I’m **Alexandre Vallon**, a Full Stack developer with a strong background in t
 <p align="center">
 <img src="https://github.com/Al-vallon/Al-vallon/blob/output/snake.svg" alt="Snake animation" />
 </p>
+
+
+
+
+
+
+
+---
+
+### 📊 GitHub Metrics via lowlighter
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Al-vallon/Al-vallon/master/github-metrics.svg" alt="Metrics" />
+</p>
+
