@@ -1,0 +1,22 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}] # toutes les heures
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 6
+          plugin_habits: yes
+          plugin_habits_from: 200 # default: 200
+          plugin_isocalendar: yes
