@@ -87,9 +87,10 @@ jobs:
             {
               "url": "https://skyline.github.com/${login}/${year}",
               "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
-              "wait": 1,
+              "wait": 3,
               "hide": "button, footer, a"
             }
+
           plugin_skyline_year: 1
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
@@ -98,6 +99,7 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
