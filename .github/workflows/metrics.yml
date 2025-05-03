@@ -25,7 +25,8 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
+          base.calendar:yes
+          config.display: large
           # Options
           template: classic
           base: header, activity, community, repositories, metadata
@@ -74,7 +75,7 @@ jobs:
           plugin_leetcode_user: al-vallon
           plugin_projects: no
           plugin_projects_limit: 4
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
           plugin_reactions_limit_discussions: 100
