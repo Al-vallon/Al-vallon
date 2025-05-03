@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Al-vallon/Al-vallon/main/github-metrics.svg" alt="GitHub Metrics" width="420" />
+  <img src="https://raw.githubusercontent.com/Al-vallon/Al-vallon/main/github-metrics.svg" alt="GitHub Metrics" width="500" />
 </p>
 
 <p align="center">
