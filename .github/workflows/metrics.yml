@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: "header, activity, community, repositories, metadata"
-          config.display: large
+          config.display: medium
           config_timezone: Europe/Paris
 
           plugin_achievements: no
