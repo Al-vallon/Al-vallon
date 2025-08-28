@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.chart-bars.horizontal .entry .name,.track .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px}.track .infos{flex-grow:1}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.post{align-items:flex-start}.post .infos{display:flex;margin-bottom:4px}.post .infos .description{white-space:normal;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-box-orient:vertical;margin-top:3px;font-size:12px;max-height:48px;color:#666;-webkit-line-clamp:3}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    295 MB used
+                                    296 MB used
                                 </div>
                             </section>
                             <section>
@@ -400,13 +400,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 7 commits)</small>
+                    <small class="h-details">(computed from last 9 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 46.0 characters per line of code written</li>
-                        <li>Mostly pushes code around 09:00</li>
+                        <li>Has approximately 45.8 characters per line of code written</li>
+                        <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
@@ -3134,6 +3134,137 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">thibaultledanois-acm/La-Ruche-DRF-React</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/notifications</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#30f9c69</div>
+                                        <div class="message">dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 34 commits in
+                                        <span class="repo">thibaultledanois-acm/La-Ruche-DRF-React</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/notifications</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#781f203</div>
+                                        <div class="message">correctifs front</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2aac81a</div>
+                                        <div class="message">Update convocations.jsx</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb148da</div>
+                                        <div class="message">correctifs fonctionnels formulaire calendrier</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43d0f61</div>
+                                        <div class="message">semi-auto create schedule-events</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1f0c2a</div>
+                                        <div class="message">ajout vérification disponibilité participants
+
++ correctif css</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e876db</div>
+                                        <div class="message">correctif édition des évènements</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9cd051</div>
+                                        <div class="message">CRUD outlook (en dev concluant)
+
+prod à ajuster en https(connexion sécurisée avec microsoft)
+labels basiques+personnalisés à ajouter</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#214481d</div>
+                                        <div class="message">Refonte couleurs charte graphique</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#79b67ec</div>
+                                        <div class="message">installs npm fullcalendar + add dialog+button rightsidemenu + tests front</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6646bc6</div>
+                                        <div class="message">add organisateurs events act convocations</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#498926e</div>
+                                        <div class="message">CRUD lots multiples convocations - prod-analyse des offres</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#17e661d</div>
+                                        <div class="message">ajout du nom de dossier et du lot au formulaire de comparatif auto des devis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#948ade9</div>
+                                        <div class="message">précision avertissement formulaire comparatif automatique de devis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05ccb9c</div>
+                                        <div class="message">ajout de dialog d'avertissement d'utilisation du comparatif auto
+
+bloque l'ouverture du dialog principal si pas de confirmation de l'utilisateur</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38ab21b</div>
+                                        <div class="message">add form-data post n8n - analyse auto devis</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b51f559</div>
+                                        <div class="message">changelog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5eda03f</div>
+                                        <div class="message">changelog 2.8
+
+Mise à jour de la version à V.2.8 et ajout des notes de version correspondantes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ac0a444</div>
+                                        <div class="message">Remove special case for 'montantprct' annotation
+
+Eliminates the custom annotation logic for 'montantprct' field in TradeDashboardViewSet ordering. This simplifies the queryset and removes handling for weighted amount calculation based on deal status.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#894b74a</div>
+                                        <div class="message">Ajout d'un tri avancé pour le tableau de bord et les vues de gestion
+
+Implémentation d'un tri côté serveur pour le tableau de bord et les pages de gestion, y compris une logique de tri personnalisée pour les champs calculés tels que 'montantprct' et les champs composites. Mise à jour des sérialiseurs et des vues du backend pour gérer les cas spéciaux pour le statut « Gagné », assurant un affichage et un tri corrects des valeurs de pourcentage et de montant. Les colonnes du front-end supportent désormais les en-têtes triables et envoient les paramètres de tri au back-end.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbebb53</div>
+                                        <div class="message">Add dossier details to edit dialog in dashboard
+
+Enhanced the dashboard edit dialog to display dossier details in read-only fields when editing a quote. Added logic to fetch and enrich dossier, contact, and raccordement details, improving context for commercial follow-up actions.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -3203,168 +3334,6 @@
 - Amélioration de la configuration Nginx pour prendre en charge les connexions WebSocket pour Django Channels.
 - Ajout de la gestion des erreurs dans les représentations de chaînes de modèle pour éviter AttributeError.
 - Création d'un script pour l'installation des certificats CA et la mise à jour du fichier hosts.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThibaultLl/La-Ruche-DRF-React</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5ba5d27</div>
-                                        <div class="message">fix: merge</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 29 commits in
-                                        <span class="repo">ThibaultLl/La-Ruche-DRF-React</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">Dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7566907</div>
-                                        <div class="message">Refactor\ Refonte de la logique de notification des factures et test
-
-Refonte du système de notification des factures afin de gérer plusieurs étapes de relance (J+45, J+67, J+78) avec des notifications réelles et temporaires. Mise à jour de la logique de signal backend pour la planification, l'envoi et l'annulation des notifications, et amélioration de la couverture des tests pour ces scénarios. Mise à jour du composant frontend RightSidebar pour une meilleure gestion des notifications dynamiques et des messages d'état.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ac5b97</div>
-                                        <div class="message">feature/ notif pour les dépassement de 45 jours après échéance
-
-Mise en œuvre de signaux pour planifier et annuler les notifications de factures en retard de paiement de plus de 45 jours, ciblant les administrateurs . Ajout de tests correspondants pour la création et l'annulation des notifications, et mise à jour de la barre latérale de l'interface pour afficher des titres de notification dynamiques et des champs d'information pour le type « Facturation ». Ajout des tests pour valider les différents scéanrios.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e05e0a</div>
-                                        <div class="message">Fix chargement des details d'une facture Billing page
-
-correctif pour afficher les détails d'une facture</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d47e5c0</div>
-                                        <div class="message">feat : Ajout du modèle MultiStepPayment et des sérialiseurs associés pour gérer les paiements multiples dans les factures
-
-- Introduction du modèle MultiStepPayment avec des champs pour les détails de paiement.
-- Mise à jour du modèle Facture pour inclure des champs pour le montant total du paiement (TTC) et l'indicateur de paiement en plusieurs étapes.
-- Création de MultiStepPaymentSerializer pour créer et mettre à jour plusieurs paiements.
-- Amélioration de FactureSerializer pour gérer les paiements en plusieurs étapes.
-- Mise à jour du composant de facturation frontend pour prendre en charge les entrées de paiement multiples avec des champs de saisie dynamiques.
-- Implémentation de boîtes de dialogue de confirmation pour la suppression et l'annulation de paiements multiples.
-- Ajout de fichiers de migration pour les nouveaux champs et modèles dans la base de données.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33a94b4</div>
-                                        <div class="message">feature/Ajout des notifications programmées avec CELERY
-
-Introduit les notifications programmées à l'aide d'un nouveau modèle ScheduledNotification, des tâches Celery et Django Celery Beat pour le traitement périodique. Ajoute des sérialiseurs, des points de terminaison API, l'enregistrement administrateur et des signaux pour prendre en charge la programmation et l'envoi de notifications à des dates ultérieures. Met à jour Docker et la configuration de l'environnement pour prendre en charge les travailleurs Celery et Beat, et ajoute les dépendances requises.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4faea33</div>
-                                        <div class="message">Refactor notifications system and add payload support
-
-Major refactor of the notifications system: unified notification creation and WebSocket sending via a new notificationservice, added 'is_read' and 'payload' fields to Notification model, and updated related serializers, migrations, and signals. Enhanced notification payloads for social, planning, commerce, and HR modules to support richer frontend display. Integrated drf_yasg for API documentation, improved static/media file handling, and made minor serializer/view naming adjustments for clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#600345d</div>
-                                        <div class="message">feature: Ajout d'un système de mise à jour en temps réel pour le mur ACM via WebSocket
-
-Implémentation d'un signal Django et d'un consommateur WebSocket pour les mises à jour en temps réel des messages sur le mur de l'ACM, en remplaçant le polling par des notifications push. Mise à jour du frontend Posts.jsx pour se connecter au nouveau point de terminaison WebSocket et gérer les mises à jour de messages entrants, et suppression de la logique de polling dans Posts.jsx et Socialacmwall.jsx. Enregistrement du signal dans la configuration de l'application sociale et ajout du routage pour le nouveau consommateur.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca7b6fe</div>
-                                        <div class="message">feature Ajouter une notification à HGU pour la création de nouveaux « devis ».
-
-Ajout de notifications pour chargé d'ordonnancement lors de la création d'un devis</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#622c405</div>
-                                        <div class="message">feature Ajouter compteur de notif volet fermé
-
-Création et mise à jour du badge pour utiliser unreadCount dans sur l icone chatbubbleIcon  Réinitialise également chatUnreadCount lorsque la barre latérale s'ouvre et ajoute des commentaires pour plus de clarté.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#905da51</div>
-                                        <div class="message">featutre: Ajout notif si postes a seulement un sondage
-
-Backend : Amélioration des signaux de notification lorsqu'un sondage est créé, y compris pour les postes ne contenant que des sondages, et amélioration de la journalisation et de la gestion des erreurs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd1da28</div>
-                                        <div class="message">feature: Notification quand un vote est fait sur son sondage
-
-envoie des notifications lorsqu'un utilisateur vote dans un sondage, à l'exclusion des auto-votes. Mise à jour du frontend pour afficher ces notifications dans la barre latérale droite.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6b4f94</div>
-                                        <div class="message">feature: Ajouter des notifications pour les nouveaux messages sur le mur de l'ACM
-
-Implémentation d'un signal backend pour notifier tous les utilisateurs, à l'exception du créateur du message, lorsqu'un nouveau message est ajouté au mur de l'ACM. Mise à jour de la barre frontale RightSidebar pour reconnaître et afficher ces notifications de nouveaux messages avec les autres notifications sociales.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d53a3ab</div>
-                                        <div class="message">feature: Ajoutez des notifications dans Social. posts com reaction
-
-Implémentation de signaux Django pour l'envoi de notifications intégrées à l'application lorsque des utilisateurs sont mentionnés dans des publications, reçoivent des réactions et sont commentés. Ces notifications sont envoyées en temps réel via WebSocket et respectent les préférences de notification des utilisateurs. Le code middleware inutilisé a également été nettoyé et des améliorations mineures ont été apportées au composant RightSidebar en front-end.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#31d4a24</div>
-                                        <div class="message">Refactor RightSidebar notifications et cleanup CSS
-
-Suppression du fichier notifications.css inutilisé. Refactorisation de RightSidebar.jsx pour améliorer la clarté du code, ajouter des commentaires détaillés et remplacer les instructions console.log par console.info pour les événements WebSocket. Documentation améliorée pour les composants et fonctions de gestion des notifications et des contacts.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#678a7a7</div>
-                                        <div class="message">refactor: Améliorer la gestion des notifications et simplifier le code de RightSidebar
-
-ajout des liens qui renvoyent au planning, gestion des anciennes notifs, issue  de la postgres</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0e6e88</div>
-                                        <div class="message">refactor: Simplify notification components in RightSidebar and enhance task/phase notification display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a12b652</div>
-                                        <div class="message">feat: Implement notifications system with WebSocket support Fact &amp; end task
-
-- Created Notification and NotificationPreference models in the notifications app.
-- Added serializers and views for handling notifications via REST API.
-- Integrated WebSocket notifications for real-time updates in the frontend.
-- Updated RightSidebar component to manage and display notifications.
-- Implemented signal handlers to create default notification preferences for new users.
-- Added migration files for the new notifications models and removed old models from websockethandlers.
-- Enhanced notification display with structured information and improved user experience.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba928ba</div>
-                                        <div class="message">Add WebSocket user status updates in RightSidebar
-
-Implemented WebSocket onmessage handler to update user online status in real-time. Updated UI to use the new is_connected property for displaying user status.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8a16aa</div>
-                                        <div class="message">- Updated frontend to establish WebSocket connection for online status. - Removed unused utils app and its related code. - Added is_connected field to ProfileUser model to track user connection status. - Created migrations for new fields and models.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a73717a</div>
-                                        <div class="message">Ajout de l'application utils avec gestion des notifications et des préférences de notification, ainsi que l'intégration des routes API associées.</div>
                                     </div>
                                 </div>
                             </section>
@@ -3466,7 +3435,7 @@ Implemented WebSocket onmessage handler to update user online status in real-tim
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2025, 23:13:52 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2025, 00:14:08 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
