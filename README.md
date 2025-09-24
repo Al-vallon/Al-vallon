@@ -1,7 +1,7 @@
 # <div align="center">Al</div>
 <p align="center">  
   <a href="https://count.getloli.com" target="_blank">    
-    <img alt="Visitor Counter" src="https://count.getloli.com/@Al-vallon.github?name=Al-vallon&theme=minecraft&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0">  
+    <img alt="Visitor Counter" src="https://count.getloli.com/@Al-vallon.github?name=Al-vallon&theme=minecraft&padding=7&offset=1&align=center&scale=0.8&pixelated=1&darkmode=1">  
   </a>
 </p>
 <p align="center">  
