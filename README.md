@@ -8,9 +8,11 @@
 <p align="center"> 
    <h2 align="center"> Language </h2>
   <p align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk" alt="Java" height="30px">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30px">  
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30px"></p><p align="center"> 
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </p>
     
       
@@ -25,11 +27,9 @@
 
    <h2 align="center"> Tools </h2>
    <p align="center">
-     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" height="30px">
      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="postman" height="30px">
      <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000" alt="Swagger" height="30px">
      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="docker" height="30px">
-     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" height="30px">
      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" height="30px">
    </p>  
 </p>
