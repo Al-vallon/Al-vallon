@@ -34,14 +34,9 @@
    </p>  
 </p>
 <h2 align="center" > Analysis </h2>
-  <p align="center">
+  <!-- <p align="center">
     <img height="200px" width="auto" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Al-vallon&bg_color=256b76&color=bf91f3&line=bf91f3&point=bf91f3&area=true&hide_border=true" />
-  </p>
-    
-  <p align="center">  
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Al-vallon&show_icons=true&theme=tokyonight" />  
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-vallon&theme=tokyonight" />
-  </p>
+  </p> -->
   <p align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Al-vallon&theme=tokyonight" alt="">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Al-vallon&theme=tokyonight&utcOffset=2" alt="">  
