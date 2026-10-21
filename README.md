@@ -39,7 +39,9 @@
   </p> -->
   <p align="center">  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Al-vallon&theme=tokyonight" alt="">  
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Al-vallon&theme=tokyonight&utcOffset=2" alt="">  
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Al-vallon&theme=tokyonight&utcOffset=2" alt="">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Al-vallon&theme=tokyonight" alt="">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Al-vallon&theme=tokyonight" alt="">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Al-vallon&theme=tokyonight" alt=""></p><p align="center">  
     <img src="https://github.com/Al-vallon/Al-vallon/blob/output/snake.svg" alt="Snake animation" />
   </p>
